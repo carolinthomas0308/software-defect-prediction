@@ -1,0 +1,6 @@
+Dataset,Rows,Features,Target Column,Defective,Non-Defective,Defect %
+KC1,2109,21,defects,326,1783,15.46
+KC2,522,21,problems,107,415,20.5
+PC1,1109,21,defects,77,1032,6.94
+CM1,498,21,defects,49,449,9.84
+JM1,13204,21,defects,2103,11101,15.93
